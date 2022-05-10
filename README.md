@@ -26,7 +26,7 @@ Todas as mensagens de erro devem ter o formato:
 ## Requisitos desejáveis
 
 * JWT como token.
-* Testes unitários. Falta Fazer
+* Testes unitários.
 * Utilizar processo de build via gradle.
 * Criptogafia não reversível (hash) na senha e no token.
 * Entregar a API rodando em algum host (Heroku, AWS, etc) na porta 80 ou 443.
